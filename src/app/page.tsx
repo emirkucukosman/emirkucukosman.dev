@@ -53,8 +53,8 @@ export default function Component() {
             of what&apos;s possible in the digital world.
           </p> */}
           <p className="text-muted-foreground">
-            Hi 👋 I&apos;m Emir, a software engineer, gamer, coffee adict, and fitness lover based
-            in Istanbul, Turkey.
+            Hi 👋 I&apos;m Emir, a software engineer, coffee adict and gym lover based in Istanbul,
+            Turkey.
           </p>
           <p className="text-muted-foreground">
             I develop things as a Software Engineer at Trendyol. Previously, I worked as a Software
